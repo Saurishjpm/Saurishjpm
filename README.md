@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome to my profile ~ Saurish Arup Pradhan ~ Saurishjpm
 
-<!--
-**Saurishjpm/Saurishjpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://x.com/Saurissh" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/Saurishjpm" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+
+I'm **Saurish Arup Pradhan**, an **Enthusiastic about commputers,Web development,AI,Neuroscience,Astronomy** living in **United Kingdom UK**.
+
+In my free time, I like to do Webdevelopment, learn AI and machine learning, about neuroscience and astronomy.
+
+
+
