@@ -10,7 +10,7 @@
 
 I'm **Saurish Arup Pradhan**, an **Enthusiastic about commputers,Web development,AI,Neuroscience,Astronomy** living in **United Kingdom UK**.
 
-In my free time, I like to do Webdevelopment, learn AI and machine learning, about neuroscience and astronomy.
+In my free time, I like to do Webdevelopment, learn AI and machine learning and  about neuroscience and astronomy.
 
 
 
